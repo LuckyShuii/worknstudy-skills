@@ -6,9 +6,9 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les verbes HTTP ❌ / ✔️
+- les verbes HTTP ✅
 - les statuts HTTP ❌ / ✔️
-- les endpoints ❌ / ✔️
+- les endpoints ✅
 - CORS ❌ / ✔️
 - la nomenclature recommandée pour les routes ❌ / ✔️
 
