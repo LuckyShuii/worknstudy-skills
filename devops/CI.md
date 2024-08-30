@@ -6,26 +6,27 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les enjeux de l'integration continue ❌ / ✔️
-- la mise en place d'une github action ❌ / ✔️
+- les enjeux de l'integration continue ✔️
+- la mise en place d'une github action ✔️
 
 ## 💻 J'utilise
 
 ### Un exemple personnel commenté ❌ / ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[[[lien github](https://github.com/WildCodeSchool/2024-02-wns-bleu-wetransfer)](...)
+](https://github.com/WildCodeSchool/2024-02-wns-bleu-wetransfer)
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable ✔️
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ❌
 
 Description :
 
